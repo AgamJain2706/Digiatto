@@ -7,8 +7,8 @@ function ContactUs() {
         <>
             <div className="2xl:px-[60px] xl:px-[45px] lg:px-[35px] sm:px-[30px] px-[20px] pt-[100px] pb-[50px]">
                 <div>
-                    <p>Contact Us</p>
-                    <div className="grid grid-cols-2 gap-5">
+                    <h1 className="text-2xl">Contact Us</h1>
+                    <div className="grid lg:grid-cols-2 grid-rows-1  gap-5">
                         <div className="grid gap-5 ">
 
                             <div className="grid grid-cols-[25%_auto] border border-[white] rounded-lg w-[70%] mx-auto py-6">
