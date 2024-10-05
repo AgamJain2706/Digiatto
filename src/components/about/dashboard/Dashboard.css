@@ -1,0 +1,7 @@
+.aboutgrad {
+  background: radial-gradient(
+    circle at 47% 0%,
+    rgba(11, 17, 79, 1) 13%,
+    rgba(0, 12, 40, 1) 48%
+  );
+}

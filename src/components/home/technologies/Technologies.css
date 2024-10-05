@@ -1,0 +1,7 @@
+.techgradient {
+  background: radial-gradient(
+    circle at 79% 33%,
+    rgba(0, 24, 78, 1) 0%,
+    rgba(0, 14, 38, 1) 35%
+  );
+}

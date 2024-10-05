@@ -1,0 +1,8 @@
+.aboutgrad2 {
+  /* background-image: linear-gradient(to top, #070f3d, #02091c, #030b22); */
+  background: radial-gradient(
+    circle at 80% 78%,
+    rgba(10, 17, 80, 1) 2%,
+    rgba(0, 12, 40, 1) 30%
+  );
+}

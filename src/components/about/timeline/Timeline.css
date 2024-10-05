@@ -1,0 +1,27 @@
+.aboutgrad1 {
+  background: radial-gradient(
+    circle at 48% 13%,
+    rgba(10, 21, 88, 1) 12%,
+    rgba(0, 17, 52, 1) 59%
+  );
+}
+span.MuiStepLabel-label.Mui-disabled.MuiStepLabel-alternativeLabel.css-1hv8oq8-MuiStepLabel-label {
+  font-size: 18px;
+  margin-top: 5px;
+  font-weight: 700;
+}
+
+@media screen and (min-width: 1024px) {
+  span.MuiStepLabel-label.Mui-disabled.MuiStepLabel-alternativeLabel.css-1hv8oq8-MuiStepLabel-label {
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 10px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  span.MuiStepLabel-label.Mui-disabled.MuiStepLabel-alternativeLabel.css-1hv8oq8-MuiStepLabel-label {
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 15px;
+  }
+}

@@ -1,0 +1,8 @@
+.globalgradient {
+  background: radial-gradient(
+    circle at 49% 38%,
+    rgba(0, 24, 78, 1) 0%,
+    #001137 0%,
+    rgb(0, 10, 25) 56%
+  );
+}

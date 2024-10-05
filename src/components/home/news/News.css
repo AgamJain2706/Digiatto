@@ -1,0 +1,7 @@
+.newsgradient {
+  background: radial-gradient(
+    circle at 9% 45%,
+    rgba(19, 21, 105, 1) 0%,
+    rgba(3, 14, 37, 1) 26%
+  );
+}

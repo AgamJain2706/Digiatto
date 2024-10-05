@@ -1,0 +1,52 @@
+.img1 {
+  background-image: url(../../../assets/servicepages/developers/binary1.jpeg);
+}
+.img2 {
+  background-image: url(../../../assets/servicepages/developers/binary2.jpeg);
+}
+
+.images {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  align-self: center;
+  justify-self: center;
+}
+
+/* Override the default line */
+.vertical-timeline::before {
+  display: none;
+}
+
+/* Override the default circle */
+.vertical-timeline-element-icon {
+  display: none;
+}
+.vertical-timeline-element-content-arrow {
+  display: none;
+}
+@media only screen and (min-width: 1170px) {
+  .vertical-timeline-element {
+    margin: 0.5em 0;
+    width: 100%;
+  }
+}
+.vertical-timeline {
+  padding: 0;
+}
+
+.vertical-timeline-element-content {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+@media only screen and (min-width: 768px) {
+  .vertical-timeline-element-content p {
+    font-size: 15px;
+    /* font-size: 1rem; */
+  }
+}
+.vertical-timeline-element-content {
+  margin-left: 0%;
+}

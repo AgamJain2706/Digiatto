@@ -1,0 +1,36 @@
+.industriesimg {
+  background-image: url(../../../assets/servicepages/industries/img1.jpeg);
+}
+
+.images {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  align-self: center;
+  justify-self: center;
+}
+.demandimages {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  align-self: center;
+  justify-self: center;
+}
+
+/*inner demand */
+.ios {
+  background-image: url(../../../assets/servicepages/industries/apple.png);
+}
+.android {
+  background-image: url(../../../assets/servicepages/industries/android.png);
+}
+.web {
+  background-image: url(../../../assets/servicepages/industries/web.png);
+}
+.laravel {
+  background-image: url(../../../assets/servicepages/industries/laravel.png);
+}

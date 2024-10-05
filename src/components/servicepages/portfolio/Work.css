@@ -1,0 +1,4 @@
+.grid-cols-2-reverse {
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "second first";
+}
