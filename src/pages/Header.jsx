@@ -52,7 +52,7 @@ function Header({ sidebarToggle, setSidebarToggle }) {
         <>
             <nav className="bg-[#1A1B33] z-50 p-1 fixed w-full md:ml-0" >
                 <div className="  mx-auto sm:px-4 relative">
-                    <FaBars className="right-2 absolute  top-1.5 ml-2 size-5 sm:size-8 md:hidden " onClick={() => setSidebarToggle (!sidebarToggle)} />
+                    <FaBars className="right-2 absolute  top-1.5 ml-2 size-5 sm:size-8 md:hidden " onClick={() => setSidebarToggle(!sidebarToggle)} />
                     <div className="grid grid-cols-[50%_auto] md:grid-cols-[30%_auto] lg:grid-cols-[50%_auto] items-center  md:h-16 h-9 sm:h-12">
                         <NavLink to="/" >
                             {

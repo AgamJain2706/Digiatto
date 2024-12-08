@@ -11,7 +11,7 @@ function ContactUs() {
                     <div className="grid lg:grid-cols-2 grid-rows-1  gap-5">
                         <div className="grid gap-5 ">
 
-                            <div className="grid grid-cols-[25%_auto] border border-[white] rounded-lg w-[70%] mx-auto py-6">
+                            <div className="grid grid-cols-[25%_auto] border border-[white] rounded-lg lg:w-[70%] w-full mx-auto lg:py-6 p-4">
                                 <div className="grid bg-[grey]  w-16 h-16 rounded-full place-self-center">
                                     <IoMdMail className="w-10 h-10 mx-auto  fill-[#030E25] place-self-center" />
                                 </div>
@@ -22,7 +22,7 @@ function ContactUs() {
                                 </div>
                             </div>
 
-                            <div className="grid grid-cols-[25%_auto] border border-[white] rounded-lg w-[70%] mx-auto py-6">
+                            <div className="grid grid-cols-[25%_auto] border border-[white] rounded-lg lg:w-[70%] w-full mx-auto lg:py-6 p-4 ">
                                 <div className="grid bg-[grey]  w-16 h-16 rounded-full place-self-center">
                                     <FaPhoneAlt className="w-10 h-10 mx-auto  fill-[#030E25] place-self-center" />
                                 </div>
@@ -33,7 +33,7 @@ function ContactUs() {
                                 </div>
                             </div>
 
-                            <div className="grid grid-cols-[25%_auto] border border-[white] rounded-lg w-[70%] mx-auto py-6">
+                            <div className="grid grid-cols-[25%_auto] border border-[white] rounded-lg lg:w-[70%] w-full mx-auto lg:py-6 p-4 ">
                                 <div className="grid bg-[grey]  w-16 h-16 rounded-full place-self-center">
                                     <FaLocationDot className="w-10 h-10 mx-auto  fill-[#030E25] place-self-center" />
                                 </div>
@@ -44,7 +44,7 @@ function ContactUs() {
                                 </div>
                             </div>
 
-                            <div className="grid grid-cols-[25%_auto] border border-[white] rounded-lg w-[70%] mx-auto py-6">
+                            <div className="grid grid-cols-[25%_auto] border border-[white] rounded-lg lg:w-[70%] w-full mx-auto lg:py-6 p-4">
                                 <div className="grid bg-[grey]  w-16 h-16 rounded-full place-self-center">
                                     <FaLocationDot className="w-10 h-10 mx-auto  fill-[#030E25] place-self-center" />
                                 </div>
